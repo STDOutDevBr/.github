@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://stdout.dev.br/logo.png" alt="STD Out" width="180"/>
+  <img src="https://stdout.dev.br/logo.png](https://avatars.githubusercontent.com/u/189472934?s=200&v=4" alt="STD Out" width="180"/>
 </p>
 
 <h1 align="center">STD Out</h1>
