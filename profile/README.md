@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://stdout.dev.br/images/logoDarkStd.png" alt="STD Out" width="180"/> </p>
+<p align="center"> <img src="https://stdout.dev.br/images/logoNovaStdNew2.png" alt="STD Out" width="180"/> </p>
 
 <h1 align="center">STD Out</h1>
 
