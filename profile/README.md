@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://stdout.dev.br/images/logoDarkStd.png" alt="STD Out" width="180"/>
+  <img 
+    src="https://stdout.dev.br/images/logoDarkStd.png" 
+    alt="STD Out" 
+    width="180"
+    style="background-color: #000; border-radius: 12px; padding: 10px;"
+  />
 </p>
 
 <h1 align="center">STD Out</h1>
