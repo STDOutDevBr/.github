@@ -1,11 +1,10 @@
-<p align="center">
-  <img 
-    src="https://stdout.dev.br/images/logoDarkStd.png" 
-    alt="STD Out" 
-    width="180"
-    style="background-color: #000; border-radius: 12px; padding: 10px;"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td bgcolor="#000000" style="padding: 12px;">
+      <img src="https://stdout.dev.br/images/logoDarkStd.png" alt="STD Out" width="180" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">STD Out</h1>
 
